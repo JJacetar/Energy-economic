@@ -1,0 +1,6 @@
+﻿检验名称,统计量 (Statistic),P-value,显著性
+Global Moran's I (空间失配度 Y),0.4063,0.001,***
+LM-Lag (空间滞后拉格朗日乘数),60.9468,0.0,***
+Robust LM-Lag (稳健的 LM-Lag),53.2218,0.0,***
+LM-Error (空间误差拉格朗日乘数),27.8195,0.0,***
+Robust LM-Error (稳健的 LM-Error),20.0945,0.0,***
